@@ -758,12 +758,6 @@
   .mb-24 {
     margin-bottom: calc(var(--spacing) * 24);
   }
-  .mb-28 {
-    margin-bottom: calc(var(--spacing) * 28);
-  }
-  .mb-32 {
-    margin-bottom: calc(var(--spacing) * 32);
-  }
   .box-border {
     box-sizing: border-box;
   }
@@ -886,9 +880,6 @@
   }
   .min-h-screen {
     min-height: 100vh;
-  }
-  .w-1 {
-    width: calc(var(--spacing) * 1);
   }
   .w-1\/2 {
     width: calc(1/2 * 100%);
